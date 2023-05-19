@@ -14,3 +14,14 @@
 
 <h3>Télécharger Winker</h3>
 <p>Vous pouvez télécharger Winker <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest">ici</a> ou <a href="Winker.zip?raw=true">ici</a>.</p>
+
+#
+
+<div align="center">
+<h2>Recommandation</h2>
+
+| Logiciel | C'est quoi ? | Version |
+|----------|--------------|---------|
+| Bloatbox | Désinstaller les bloatware | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square" /> |
+
+</div>
