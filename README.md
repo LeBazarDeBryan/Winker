@@ -1,2 +1,4 @@
-# Winker
-Améliorer votre Windows
+<div align="center">
+  <h1>Winker</h1>
+  <p>Améliorer votre Windows</p>
+</div>
