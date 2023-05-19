@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Winker</h1>
-  <img src="logo.png" height="500" width="900" />
+  <img src="logo.png" height="350" width="650" />
   <p>Améliorer votre Windows</p>
 </div>
 
