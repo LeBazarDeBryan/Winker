@@ -23,6 +23,6 @@
 | Logiciel | C'est quoi ? | Version |
 |----------|--------------|---------|
 | Bloatbox | Désinstaller les bloatware | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square" /> |
-| Chris Titus Tech's Windows Utility |  | <a href="https://github.com/ChrisTitusTech/winutil#readme">16.05.23</a>
+| Chris Titus Tech's Windows Utility | Installer, modification, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">16.05.23</a>
 
 </div>
