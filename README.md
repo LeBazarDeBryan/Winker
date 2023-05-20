@@ -30,8 +30,8 @@
 
   | Logiciel | C'est quoi ? | Version |
   |----------|--------------|---------|
-  | Bloatbox | Désinstaller les bloatware | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square" /></a> |
-  | Chocolatey | Winget, Installeur d'application | <a href="https://github.com/chocolatey/choco#readme"><img src="https://img.shields.io/github/release/chocolatey/choco.svg?style=flat-square" /></a> |
+  | Bloatbox | Désinstaller les bloatware | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square&label=" /></a> |
+  | Chocolatey | Winget, Installeur d'application | <a href="https://github.com/chocolatey/choco#readme"><img src="https://img.shields.io/github/release/chocolatey/choco.svg?style=flat-square&label=" /></a> |
   | Chris Titus Tech's Windows Utility | Installer des applications, modifier, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">23.05.16</a> |
 
 </div>
