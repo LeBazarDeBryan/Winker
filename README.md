@@ -28,9 +28,10 @@
 <div align="center">
 <h2>Recommandation</h2>
 
-| Logiciel | C'est quoi ? | Version |
-|----------|--------------|---------|
-| Bloatbox | Désinstaller les bloatware | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square" /> |
-| Chris Titus Tech's Windows Utility | Installer, modifier, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">16.05.23</a>
+  | Logiciel | C'est quoi ? | Version |
+  |----------|--------------|---------|
+  | Bloatbox | Désinstaller les bloatware | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square" /></a> |
+  | Chocolatey | Winget, Installeur d'application | <a href="https://github.com/chocolatey/choco#readme"><img src="https://img.shields.io/github/release/chocolatey/choco.svg?style=flat-square" /></a>
+  | Chris Titus Tech's Windows Utility | Installer des applications, modifier, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">16.05.23</a>
 
 </div>
