@@ -2,6 +2,12 @@
   <h1>Winker</h1>
   <img src="logo.png" height="350" width="650" />
   <p>Améliorer votre Windows 10</p>
+  
+  <img src="https://img.shields.io/github/stars/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=%C3%89toile" />
+  <img src="https://img.shields.io/github/forks/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Fork" />
+  <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Watching" />
+  <img src="https://img.shields.io/github/issues/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Issues" />
+  
   <p><strong><em>~ 8 Ko</em></strong></p>
 </div>
 
