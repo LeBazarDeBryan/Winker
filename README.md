@@ -3,10 +3,11 @@
   <img src="logo.png" height="350" width="650" />
   <p>Améliorer votre Windows 10</p>
   
-  <img src="https://img.shields.io/github/stars/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=%C3%89toile" />
-  <img src="https://img.shields.io/github/forks/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Fork" />
-  <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Watching" />
-  <img src="https://img.shields.io/github/issues/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Issues" />
+  <a href="https://github.com/LeBazarDeBryan/Winker/stargazers"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=%C3%89toile" /></a>
+  <a href="https://github.com/LeBazarDeBryan/Winker/forks"><img src="https://img.shields.io/github/forks/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Fork" /></a>
+  <a href="https://github.com/LeBazarDeBryan/Winker/watchers"><img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Watching" /></a>
+  <a href="https://github.com/LeBazarDeBryan/Winker/issues"><img src="https://img.shields.io/github/issues/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Issues" /></a>
+  <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest"><img src="https://img.shields.io/github/release/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Version" /></a>
   
   <p><strong><em>~ 8 Ko</em></strong></p>
 </div>
