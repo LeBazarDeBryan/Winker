@@ -2,6 +2,7 @@
   <h1>Winker</h1>
   <img src="logo.png" height="350" width="650" />
   <p>Améliorer votre Windows 10</p>
+  <p><strong><em>~ 8 Ko</em></strong></p>
 </div>
 
 #
