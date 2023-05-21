@@ -21,7 +21,7 @@
 <p>Winker est un mix de Windows et Tweaker.</p>
 
 <h3>Télécharger Winker</h3>
-<p>Vous pouvez télécharger Winker <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest">ici</a> ou <a href="Winker.zip?raw=true">ici</a>.</p>
+<p>Vous pouvez télécharger Winker <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest/download/Winker.zip">ici</a> ou <a href="Winker.zip?raw=true">ici</a>.</p>
 
 #
 
