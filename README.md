@@ -32,6 +32,7 @@
   |----------|--------------|---------|
   | Bloatbox | Désinstaller les bloatware | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square&label=" /></a> |
   | Chocolatey | Winget, Installeur d'application | <a href="https://github.com/chocolatey/choco#readme"><img src="https://img.shields.io/chocolatey/v/chocolatey.svg?style=flat-square&label=" /></a> |
-  | Chris Titus Tech's Windows Utility | Installeur d'applications, modifier Windows, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">23.05.16</a> |
+  | Chris Titus Tech's Windows Utility | Installeur d'applications, optimisateur, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">23.05.16</a> |
+  | HoneCtrl | Optimisateur | <a href="https://github.com/auraside/HoneCtrl/releases/latest/download/HoneCtrl.Bat"><img src="https://img.shields.io/github/release/auraside/HoneCtrl.svg?style=flat-square&label=" />
 
 </div>
