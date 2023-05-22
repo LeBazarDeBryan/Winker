@@ -8,7 +8,7 @@
   <a href="https://github.com/LeBazarDeBryan/Winker/watchers"><img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Watchers" /></a>
   <a href="https://github.com/LeBazarDeBryan/Winker/issues"><img src="https://img.shields.io/github/issues/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Issues" /></a>
   <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest"><img src="https://img.shields.io/github/release/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Version" /></a>
-  <a href=""><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Winker/total.svg?color=00aaff&style=for-the-badge&label=Télécharger" /></a>
+  <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest/download/Winker.zip"><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Winker/total.svg?color=00aaff&style=for-the-badge" /></a>
   
   <p><strong><em>~ 8 Ko</em></strong></p>
 </div>
