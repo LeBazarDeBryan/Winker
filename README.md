@@ -33,9 +33,10 @@
   |----------|--------------|---------|
   | <a href="https://github.com/builtbybel/bloatbox#readme">Bloatbox</a> | Désinstaller les <a href="">bloatware</a> | <a href="https://github.com/builtbybel/bloatbox/releases/latest/download/bloatbox.zip"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square&label=" /></a> |
   | <a href="https://chocolatey.org/">Chocolatey</a> | Winget, Installeur d'application | <a href="https://github.com/chocolatey/choco#readme"><img src="https://img.shields.io/chocolatey/v/chocolatey.svg?style=flat-square&label=" /></a> |
-  | <a href="https://github.com/ChrisTitusTech/winutil#readme">Chris Titus Tech's Windows Utility</a> | Installeur d'applications, optimisateur, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">23.05.16</a> |
+  | <a href="https://github.com/ChrisTitusTech/winutil#readme">Chris Titus Tech's Windows Utility</a> | Installeur d'applications, optimisateur, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">???</a> |
   | <a href="https://github.com/auraside/HoneCtrl#readme">HoneCtrl</a> | Optimisateur | <a href="https://github.com/auraside/HoneCtrl/releases/latest/download/HoneCtrl.Bat"><img src="https://img.shields.io/github/release/auraside/HoneCtrl.svg?style=flat-square&label=" /> |
   | <a href="https://github.com/crazy-max/WindowsSpyBlocker#readme">WindowsSpyBlocker</a> | Bloquer l'espionnage et le pistage | <a href="https://github.com/crazy-max/WindowsSpyBlocker/releases/latest/download/WindowsSpyBlocker.exe"><img src="https://img.shields.io/github/release/crazy-max/WindowsSpyBlocker.svg?style=flat-square&label=" /></a> |
-  | <a href="https://wpd.app">WPD</a> | Supprimer la télémétrie et le pistage | <a href="https://wpd.app/get/latest.zip">1.5.2042 RC 1</a> |
+  <a href="https://www.resplendence.com/download/whocrashedSetup.exe">WhoCrashed</a> | Voir les détails des écrans bleus | <a href="https://www.resplendence.com/download/whocrashedSetup.exe">Free Home Edition</a> |
+  | <a href="https://wpd.app">WPD</a> | Supprimer la télémétrie et le pistage | <a href="https://wpd.app/get/latest.zip">???</a> |
 
 </div>
