@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Winker</h1>
-  <img src="logo.png" height="350" width="650" />
+  <img src="logo.png" height="350" width="350" />
   <p>Améliorer votre Windows 10</p>
   
   <a href="https://github.com/LeBazarDeBryan/Winker/stargazers"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=%C3%89toile" /></a>
