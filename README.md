@@ -37,7 +37,7 @@
   | <a href="https://github.com/ChrisTitusTech/winutil#readme">Chris Titus Tech's Windows Utility</a> | Installeur d'applications, optimisateur, debloat | <a href="https://github.com/ChrisTitusTech/winutil#readme">???</a> |
   | <a href="https://github.com/crazy-max/WindowsSpyBlocker#readme">WindowsSpyBlocker</a> | Bloquer l'espionnage et le pistage | <a href="https://github.com/crazy-max/WindowsSpyBlocker/releases/latest/download/WindowsSpyBlocker.exe"><img src="https://img.shields.io/github/release/crazy-max/WindowsSpyBlocker.svg?style=flat-square&label=" /></a> |
   <a href="https://www.resplendence.com/whocrashed">WhoCrashed</a> | Voir les détails des écrans bleus | <a href="https://www.resplendence.com/download/whocrashedSetup.exe">Free Home Edition</a> |
-  | <a href="https://www.resplendence.com/whysoslow">WhySoSlow</a> | Voir pourquoi votre système est lent | <a href="https://www.resplendence.com/download/WhySoSlowSetup.exe">???</a> |
+  | <a href="https://www.resplendence.com/whysoslow">WhySoSlow</a> | Voir pourquoi votre système est lent | <a href="https://www.resplendence.com/download/WhySoSlowSetup.exe">Free Home Edition</a> |
   | <a href="https://wpd.app">WPD</a> | Supprimer la télémétrie et le pistage | <a href="https://wpd.app/get/latest.zip">???</a> |
 
 </div>
