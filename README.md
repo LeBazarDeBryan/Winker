@@ -16,7 +16,7 @@
 #
 
 <h3>C'est quoi Winker ?</h3>
-<p>Winker est un dossier qui regroupe plein de petit logiciel (.bat et .reg) qui permet d'améliorer Windows.</p>
+<p>Winker est un dossier qui regroupe plein de petits logiciels (.bat et .reg) qui permet d'améliorer Windows</p>
 
 <h3>D'où vient le nom Winker ?</h3>
 <p>Winker est un mix de Windows et Tweaker.</p>
