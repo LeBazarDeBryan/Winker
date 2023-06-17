@@ -25,7 +25,7 @@
 <p>Vous pouvez télécharger Winker <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest/download/Winker.zip">ici</a> ou <a href="Winker.zip?raw=true">ici</a>.</p>
 
 <h3>Projet similaire</h3>
-<p>J'ai aussi réaliser un autre projet pour Android sous le nom d'<a href="https://github.com/LeBazarDeBryan/Androker#readme">Androker</a>.</p>
+<p>J'ai aussi réalisé un autre projet pour Android sous le nom d'<a href="https://github.com/LeBazarDeBryan/Androker#readme">Androker</a>.</p>
 
 #
 
