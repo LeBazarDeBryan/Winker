@@ -10,7 +10,7 @@
   <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest"><img src="https://img.shields.io/github/release/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Version" /></a>
   <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest/download/Winker.zip"><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Winker/total.svg?color=00aaff&style=for-the-badge&label=Telechargement" /></a>
   
-  <p><strong><em>~ 95 Ko</em></strong></p>
+  <p><strong><em>~ 93 Ko</em></strong></p>
 </div>
 
 #
