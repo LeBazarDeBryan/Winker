@@ -8,7 +8,7 @@
   <a href="https://github.com/LeBazarDeBryan/Winker/watchers"><img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Watchers" /></a>
   <a href="https://github.com/LeBazarDeBryan/Winker/issues"><img src="https://img.shields.io/github/issues/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Issues" /></a>
   <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest"><img src="https://img.shields.io/github/release/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Version" /></a>
-  <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest/download/Winker.zip"><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Winker/total.svg?color=00aaff&style=for-the-badge" /></a>
+  <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest/download/Winker.zip"><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Winker/total.svg?color=00aaff&style=for-the-badge&label=Telechargement" /></a>
   
   <p><strong><em>~ 95 Ko</em></strong></p>
 </div>
@@ -16,13 +16,16 @@
 #
 
 <h3>C'est quoi Winker ?</h3>
-<p>Winker est un dossier qui regroupe plein de petits logiciels (.bat et .reg) qui permet d'améliorer Windows</p>
+<p>Winker est un dossier qui regroupe plein de petits logiciels (.bat et .reg) qui permet d'améliorer Windows 10.</p>
 
 <h3>D'où vient le nom Winker ?</h3>
 <p>Winker est un mix de Windows et Tweaker.</p>
 
 <h3>Télécharger Winker</h3>
 <p>Vous pouvez télécharger Winker <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest/download/Winker.zip">ici</a> ou <a href="Winker.zip?raw=true">ici</a>.</p>
+
+<h3>Projet similaire</h3>
+<p>J'ai aussi réaliser un autre projet pour Android sous le nom d'<a href="https://github.com/LeBazarDeBryan/Androker#readme">Androker</a>.</p>
 
 #
 
