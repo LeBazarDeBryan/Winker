@@ -15,22 +15,31 @@
 
 #
 
-<h3>C'est quoi Winker ?</h3>
+<details>
+<summary><h3>C'est quoi Winker ?</h3></summary>
 <p>Winker est un dossier qui regroupe plein de petits logiciels (.bat et .reg) qui permet d'améliorer Windows 10.</p>
+</details>
 
-<h3>D'où vient le nom Winker ?</h3>
+<details>
+<summary><h3>D'où vient le nom Winker ?</h3></summary>
 <p>Winker est un mix de Windows et Tweaker.</p>
+</details>
 
-<h3>Télécharger Winker</h3>
+<details>
+<summary><h3>Télécharger Winker</h3></summary>
 <p>Vous pouvez télécharger Winker <a href="https://github.com/LeBazarDeBryan/Winker/releases/latest/download/Winker.zip">ici</a> ou <a href="Winker.zip?raw=true">ici</a>.</p>
+</details>
 
-<h3>Projet similaire</h3>
+<details>
+<summary><h3>Projet similaire</h3></summary>
 <p>J'ai aussi réalisé un autre projet pour Android sous le nom d'<a href="https://github.com/LeBazarDeBryan/Androker#readme">Androker</a>.</p>
+</details>
 
 #
 
 <div align="center">
-<h2>Recommandation</h2>
+<details>
+<summary><h2>Recommandation</h2></summary>
 
   | Logiciel | Description | Version |
   |----------|--------------|---------|
@@ -42,5 +51,6 @@
   <a href="https://www.resplendence.com/whocrashed">WhoCrashed</a> | Voir les détails des écrans bleus | <a href="https://www.resplendence.com/download/whocrashedSetup.exe">Free Home Edition</a> |
   | <a href="https://www.resplendence.com/whysoslow">WhySoSlow</a> | Voir pourquoi votre système est lent | <a href="https://www.resplendence.com/download/WhySoSlowSetup.exe">Free Home Edition</a> |
   | <a href="https://wpd.app">WPD</a> | Supprimer la télémétrie et le pistage | <a href="https://wpd.app/get/latest.zip">???</a> |
+</details>
 
 </div>
