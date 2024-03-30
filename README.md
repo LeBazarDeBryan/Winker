@@ -16,6 +16,14 @@
 #
 
 <details>
+<summary><h3>Jeux</h3></summary>
+<h3><ul><li>Minecraft (1.20.4)</li></ul></h3>
+  <p>Téléchargez la version "Fabric 1.20.4" sur votre lanceur et le <a href="https://www.clictune.com/jz3L">pack</a> puis ouvrez le dossier ".minecraft" > "mods" et décompressé le <a href="https://www.clictune.com/jz3L">pack</a> dans le dossier "mods" de ".minecraft". Maintenant passons à la mémoire (RAM), Minecraft prend ~4Go de RAM, ce qui est beaucoup et surtout inutile vu que Minecraft n'utilise que ~400Mb. Je vous recommande de le limitez à 512Mb pour que Minecraft est suffisamment de RAM pour s'exécutez sans problème.</p>
+</details>
+
+#
+
+<details>
 <summary><h3>C'est quoi Winker ?</h3></summary>
 <p>Winker est un dossier qui regroupe plein de petits logiciels (.bat et .reg) qui permet d'améliorer Windows 10.</p>
 </details>
