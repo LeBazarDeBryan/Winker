@@ -19,7 +19,14 @@
 <summary><h3>Jeux</h3></summary>
 <h3><ul><li>Minecraft (1.20.4)</li></ul></h3>
   <p>Téléchargez la version "Fabric 1.20.4" sur votre lanceur et le <a href="https://www.clictune.com/jz3L">pack</a> puis ouvrez le dossier ".minecraft" > "mods" et décompressé le <a href="https://www.clictune.com/jz3L">pack</a> dans le dossier "mods" de ".minecraft". Maintenant passons à la mémoire (RAM), Minecraft prend ~4Go de RAM, ce qui est beaucoup et surtout inutile vu que Minecraft n'utilise que ~400Mb. Je vous recommande de le limitez à 512Mb pour que Minecraft est suffisamment de RAM pour s'exécutez sans problème.</p>
-</details>
+<div align="center">
+  <h3>Autre pack</h3>
+  
+| Nom | Loader | Version |
+|-----|--------|---------|
+| <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric | 1.20.6 |
+| <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric | 1.20.4 |
+</div></details>
 
 #
 
