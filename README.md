@@ -1,34 +1,19 @@
+> [!IMPORTANT]
+> Retour de mon projet Winker. J'ai décidé de me relancer dans le développement, je vais faire une nouvelle interface en utilisant PowerShell. Ceci prendra du temps, mais je pense que le résultat sera bien.
+
 <div align="center">
   <h1>Winker</h1>
   <img src="logo.png" height="350" width="350" />
   <p>Améliorer votre Windows 10</p>
   
-  <a href="https://www.clictune.com/jsfJ"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=%C3%89toile" /></a>
-  <a href="https://www.clictune.com/jsfK"><img src="https://img.shields.io/github/forks/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Fork" /></a>
-  <a href="https://www.clictune.com/jsfM"><img src="https://img.shields.io/github/watchers/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Watchers" /></a>
-  <a href="https://www.clictune.com/jsfN"><img src="https://img.shields.io/github/issues/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Issues" /></a>
-  <a href="https://www.clictune.com/jsfO"><img src="https://img.shields.io/github/release/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Version" /></a>
-  <a href="https://www.clictune.com/jsfP"><img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Winker/total.svg?color=00aaff&style=for-the-badge&label=Telechargement" /></a>
-  
+  <img src="https://img.shields.io/github/stars/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=%C3%89toile" />
+  <img src="https://img.shields.io/github/issues/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Issues" />
+  <img src="https://img.shields.io/github/release/LeBazarDeBryan/Winker?color=00aaff&style=for-the-badge&label=Version" />
+  <img src="https://img.shields.io/github/downloads/LeBazarDeBryan/Winker/total.svg?color=00aaff&style=for-the-badge&label=Telechargement" />
   <p><strong><em>~ 93 Ko</em></strong></p>
 </div>
 
-#
-
-<details>
-<summary><h3>Jeux</h3></summary>
-<h3><ul><li>Minecraft (1.20.4)</li></ul></h3>
-  <p>Téléchargez la version "Fabric 1.20.4" sur votre lanceur et le <a href="https://www.clictune.com/jz3L">pack</a> puis ouvrez le dossier ".minecraft" > "mods" et décompressé le <a href="https://www.clictune.com/jz3L">pack</a> dans le dossier "mods" de ".minecraft". Maintenant passons à la mémoire (RAM), Minecraft prend ~4Go de RAM, ce qui est beaucoup et surtout inutile vu que Minecraft n'utilise que ~400Mb. Je vous recommande de le limitez à 512Mb pour que Minecraft est suffisamment de RAM pour s'exécutez sans problème.</p>
-<div align="center">
-  <h3>Autre pack</h3>
-  
-| Nom | Loader | Version |
-|-----|--------|---------|
-| <a href="https://www.curseforge.com/minecraft/modpacks/breakneck">Breakneck: Optimized</a> | Fabric | 1.20.6 |
-| <a href="https://www.curseforge.com/minecraft/modpacks/cubed-optimized">Cubed Optimized FPS</a> | Fabric | 1.20.4 |
-</div></details>
-
-#
+___
 
 <details>
 <summary><h3>C'est quoi Winker ?</h3></summary>
@@ -42,30 +27,11 @@
 
 <details>
 <summary><h3>Télécharger Winker</h3></summary>
-<p>Vous pouvez télécharger Winker <a href="https://www.clictune.com/jsfp">ici</a> ou <a href="Winker.zip?raw=true">ici</a>.</p>
+<p>Vous pouvez télécharger Winker <a href="">ici</a> ou <a href="Winker.zip?raw=true">ici</a>.</p>
 </details>
 
 <details>
 <summary><h3>Projet similaire</h3></summary>
-<p>J'ai aussi réalisé un autre projet pour Android sous le nom d'<a href="https://www.clictune.com/jsfq">Androker</a>.</p>
+<p>J'ai aussi réalisé un autre projet sous le nom de <a href="https://github.com/LeBazarDeBryan/felix">félix!</a> et un autre projet pour Android appelé d'<a href="https://github.com/LeBazarDeBryan/Androker">Androker</a>.</p>
 </details>
-
-#
-
-<div align="center">
-<details>
-<summary><h2>Recommandation</h2></summary>
-
-  | Logiciel | Description | Version |
-  |----------|--------------|---------|
-  | <a href="https://www.clictune.com/jsfr">Bloatbox</a> | Désinstaller les <a href="">bloatware</a> | <a href="https://www.clictune.com/jsfB"><img src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square&label=" /></a> |
-  | <a href="https://www.clictune.com/jsfs">Chocolatey</a> | Winget, Installeur d'application | <a href="https://www.clictune.com/jsfC"><img src="https://img.shields.io/chocolatey/v/chocolatey.svg?style=flat-square&label=" /></a> |
-  | <a href="https://www.clictune.com/jsft">CrystalDiskInfo</a> | Vérifier l'état de votre disque | <a href="https://www.clictune.com/jsfD">???</a> |
-  | <a href="https://www.clictune.com/jsfv">Chris Titus Tech's Windows Utility</a> | Installeur d'applications, optimisateur, debloat | <a href="https://www.clictune.com/jsfE">???</a> |
-  | <a href="https://www.clictune.com/jsfw">WindowsSpyBlocker</a> | Bloquer l'espionnage et le pistage | <a href="https://www.clictune.com/jsfF"><img src="https://img.shields.io/github/release/crazy-max/WindowsSpyBlocker.svg?style=flat-square&label=" /></a> |
-  <a href="https://www.clictune.com/jsfx">WhoCrashed</a> | Voir les détails des écrans bleus | <a href="https://www.clictune.com/jsfG">Free Home Edition</a> |
-  | <a href="https://www.clictune.com/jsfy">WhySoSlow</a> | Voir pourquoi votre système est lent | <a href="https://www.clictune.com/jsfH">Free Home Edition</a> |
-  | <a href="https://www.clictune.com/jsfA">WPD</a> | Supprimer la télémétrie et le pistage | <a href="https://www.clictune.com/jsfI">???</a> |
-</details>
-
 </div>
