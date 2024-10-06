@@ -17,7 +17,7 @@ ___
 
 <details>
 <summary><h3>C'est quoi Winker ?</h3></summary>
-<p>Winker est un dossier qui regroupe plein de petits logiciels (.bat et .reg) qui permet d'améliorer Windows 10.</p>
+<p>Winker est un dossier qui regroupe plein de petits logiciels (.bat et .reg) qui permet d'améliorer Windows 10. Prochainement, la version 2.0 sera en PowerShell donc aurevoir les dossiers!</p>
 </details>
 
 <details>
