@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Retour de mon projet Winker. J'ai décidé de me relancer dans le développement, je vais faire une nouvelle interface en utilisant PowerShell. Ceci prendra du temps, mais je pense que le résultat sera bien.
+> Retour de mon projet Winker. J'ai décidé de me relancer dans le développement, je vais faire une nouvelle interface en utilisant ~~PowerShell~~ du Batch. Ceci prendra du temps, mais je pense que le résultat sera bien.
 
 <div align="center">
   <h1>Winker</h1>
